@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/6a/47/ef/6a47ef2e40efbcb3786a18c91f5e7a02.gif" width="100%" />
+</p>
+
 <h1 align="center">hey, I'm Sara🫧</h1>
 
 <p align="center">
