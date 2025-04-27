@@ -6,3 +6,4 @@
 <h3 align="center">Looking for bugs like it’s a full-time job</h3> 
 <img src="https://pixels.crd.co/assets/images/gallery63/d22c390b.gif?v=99d3974e" alt="Debugging" width="30" />
 
+
