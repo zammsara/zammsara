@@ -4,5 +4,5 @@
 <h3 align="center">looking for bugs like it´s a full time job</h3> 
 
 <p align="center">
-  <img src="https://pixels.crd.co/assets/images/gallery63/d22c390b.gif?v=99d3974e" alt="Debugging" />
+  <img src="https://pixels.crd.co/assets/images/gallery109/e3c95ec7.gif?v=99d3974e" alt="Debugging" />
 </p>
